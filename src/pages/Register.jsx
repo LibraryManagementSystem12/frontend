@@ -71,7 +71,7 @@ const Register = () => {
             sm={4}
             md={7}
             sx={{
-              backgroundImage: 'url(https://miro.medium.com/max/1400/1*oVbBdRUlndQPAl3tvB-qYg.gif)',
+              backgroundImage: 'url(https://i.ibb.co/f4KZ16g/logo.jpg)',
               backgroundRepeat: 'no-repeat',
               backgroundColor: (t) =>
                 t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],

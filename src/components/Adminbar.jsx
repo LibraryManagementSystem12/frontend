@@ -57,7 +57,7 @@ const Adminbar = () => {
       }}
     >
       <Box sx={{ padding: '20px', display: 'flex', justifyContent: 'center' }}>
-        <img  alt="logo" style={{ height: '60px' }} />
+        <img  alt="logo" src='https://i.ibb.co/f4KZ16g/logo.jpg' style={{ height: '60px' }} />
       </Box>
       <Divider />
       <List>
